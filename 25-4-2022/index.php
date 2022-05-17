@@ -3,7 +3,7 @@
 
 <?php
 /* Question One */
-$year = 1997 ;
+$year = 2024 ;
 if ($year % 4 == 0){
     echo "This Year is A leap Year <br>" ;
 }
